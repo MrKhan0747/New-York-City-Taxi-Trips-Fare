@@ -13,3 +13,33 @@ The dataset contains 2 Crore records and 8 features along with GPS coordinates o
 5. fare_amount
 6. pickup_datetime
 7. passenger_count
+
+### Techniques Used
+
+- Data Preprocessing
+- Data Visualization
+- Feature Engineering
+- Machine Learning Modeling
+
+### Algortihms Used
+
+## Guide Lines 
+### Packages and Tools Required:
+```
+Pandas 
+Matplotlib
+Seaborn
+Scikit Learn
+Jupyter Notebook
+Geopy
+```
+### Package Installation
+```
+pip install numpy
+pip install pandas
+pip install seaborn
+pip install scikit-learn
+pip install matplotlib
+pip install geopy
+```
+Jupyter Notebook Installation Guide https://jupyter.org/install
