@@ -21,7 +21,9 @@ The dataset contains 2 Crore records and 8 features along with GPS coordinates o
 - Feature Engineering
 - Machine Learning Modeling
 
-### Algortihms Used
+### Algortihm Used
+
+1. Random Forest Regressor
 
 ## Guide Lines 
 ### Packages and Tools Required:
