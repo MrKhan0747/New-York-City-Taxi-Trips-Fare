@@ -1,4 +1,4 @@
-# New York City Taxi Fare Prediction 
+# New York City Taxi Fare Analysis & Prediction 
 
 In this project using New York dataset we will predict the fare price of next trip.
 
